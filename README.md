@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/Rifa9oct/Rifa9oct/main/banner1.png)
 <h1 align="center">Hi 👋, I'm Kohinur Akther</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
@@ -38,8 +39,6 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,vscode" />
   </a>
 </p>
-<br>
-<p align="center">
 
 # 📈 Current Stats
 
