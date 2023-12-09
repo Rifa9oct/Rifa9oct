@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifa9oct&label=Profile%20views&color=0e75b6&style=flat" alt="rifa9oct" /> </p>
 
-# 👧 What I work with
+# 👧 About Me
 
 **Skilled in developing dynamic web applications using MongoDB, Express.js, React, and Node.js, with additional expertise in HTML, CSS, JavaScript, and Tailwind CSS. Proficient in crafting scalable and efficient solutions for a seamless and visually appealing user experience.**
 
@@ -20,7 +20,7 @@
 
 ⚡ Fun fact - **I think I am Funny 😅**
 
-# 💻 Technologies that I know
+# 💻 Skills and Technologies
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,6 +39,9 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,vscode" />
   </a>
 </p>
+
+# 👨‍💻 Projects
+
 
 # 📈 Current Stats
 
