@@ -12,7 +12,7 @@
 
 # 👁️ Current Overview
 
-🔭 I’m currently working on - [Employee Management Website](https://tricky-earthquake.surge.sh)
+🔭 I’m currently working on - [Employee Management Website](https://employee-management-client.vercel.app)
 
 🤝 I’m looking for help with - Certainly! Feel free to share what you need help with, and I'll do my best to assist you.
 
@@ -41,7 +41,20 @@
 </p>
 
 # 👨‍💻 Projects
+## 1. Employee Management
+**Description :** Our Employee Management website offers a comprehensive solution with distinct roles for HR, Admin, and employees. Powered by Firebase, Tailwind, Mongoose, React, JWT, and daisyui, it provides role-specific functionalities. HR professionals can efficiently manage personnel, administrators have control over system settings, while employees benefit from a user-friendly interface for seamless engagement. Revolutionize your workforce management with our technology-driven platform.
 
+**Website Link :** https://employee-management-client.vercel.app
+
+## 2. Hotel Booking
+**Description :** Embark on a seamless hotel booking experience with our website. Enjoy the convenience of securely stored booking information, granting users the ability to effortlessly view, modify dates, and cancel reservations. Elevate hospitality management with our tech-savvy solution, ensuring a user-friendly and efficient booking process.
+
+**Website Link :** https://ocean-side-hotel.web.app
+
+## 3. Fashion Brand Shop
+**Description :** Discover the epitome of style on our Fashion Brand Shop website, adorned with a sleek design using Tailwind, MongoDB, React, and daisyUI. Seamlessly blending fashion and technology, this platform offers a captivating shopping experience and dynamic product showcases. Elevate your wardrobe with the perfect blend of elegance and innovation.
+
+**Website Link :** https://fashionbrandshop-f47a4.web.app
 
 # 📈 Current Stats
 
