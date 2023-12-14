@@ -44,7 +44,11 @@
 ## 1. Employee Management
 **Description :** Our Employee Management website offers a comprehensive solution with distinct roles for HR, Admin, and employees. Powered by Firebase, Tailwind, Mongoose, React, JWT, and daisyui, it provides role-specific functionalities. HR professionals can efficiently manage personnel, administrators have control over system settings, while employees benefit from a user-friendly interface for seamless engagement. Revolutionize your workforce management with our technology-driven platform.
 
+<<<<<<< HEAD
 **Website Link :** https://employee-management-client.vercel.app
+=======
+**Website Link :** https://tricky-earthquake.surge.sh
+>>>>>>> bb5c757903bfbc80ae5ae5a44364399645ad8fd1
 
 ## 2. Hotel Booking
 **Description :** Embark on a seamless hotel booking experience with our website. Enjoy the convenience of securely stored booking information, granting users the ability to effortlessly view, modify dates, and cancel reservations. Elevate hospitality management with our tech-savvy solution, ensuring a user-friendly and efficient booking process.
