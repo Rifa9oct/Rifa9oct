@@ -12,8 +12,6 @@
 
 # 👁️ Current Overview
 
-🔭 I’m currently working on - [Employee Management Website](https://employee-management-client.vercel.app)
-
 🤝 I’m looking for help with - Certainly! Feel free to share what you need help with, and I'll do my best to assist you.
 
 🌱 I’m currently learning - **Next.js**
