@@ -39,10 +39,10 @@
 </p>
 
 # 👨‍💻 Projects
-## 1. Employee Management
-**Description :** Our Employee Management website offers a comprehensive solution with distinct roles for HR, Admin, and employees. Powered by Firebase, Tailwind, Mongoose, React, JWT, and daisyui, it provides role-specific functionalities. HR professionals can efficiently manage personnel, administrators have control over system settings, while employees benefit from a user-friendly interface for seamless engagement. Revolutionize your workforce management with our technology-driven platform.
+## 1. Organic Store
+**Description :** Our Organic Store website provides a seamless shopping experience with features like Add to Cart, Quantity Editing, and a smooth Checkout process with email confirmation. Customers can share Product Reviews, upload Profile Photos, and browse efficiently using Search, Price Filtering, and Pagination. The platform supports multi-language access in English and Bangla, ensuring inclusivity. Built with Next.js, MongoDB, Tailwind CSS, and NextAuth, it offers secure authentication, responsive design, and social sharing via Facebook. Elevate your shopping experience with our modern and user-friendly platform.
 
-**Website Link :** https://tricky-earthquake.surge.sh
+**Website Link :** https://organic-store-red.vercel.app
 
 ## 2. Hotel Booking
 **Description :** Embark on a seamless hotel booking experience with our website. Enjoy the convenience of securely stored booking information, granting users the ability to effortlessly view, modify dates, and cancel reservations. Elevate hospitality management with our tech-savvy solution, ensuring a user-friendly and efficient booking process.
