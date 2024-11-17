@@ -28,7 +28,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,MongoDB,github,firebase" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,github,firebase" />
   </a>
 </p>
 <br>
