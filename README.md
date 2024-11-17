@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
   </a>
 </p>
 <br>
@@ -34,7 +34,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,vscode" />
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vscode,materialui" />
   </a>
 </p>
 
